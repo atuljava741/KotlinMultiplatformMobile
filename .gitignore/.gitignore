@@ -14,5 +14,5 @@ ios.xcworkspace/
 
 .DS_Store
 .externalNativeBuild
-shared/build/
-androidApp/build/
+*/shared/build/
+*/androidApp/build/
